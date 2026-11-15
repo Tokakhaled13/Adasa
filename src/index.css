@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+button {
+  cursor: pointer;
+}
+
+a {
+  cursor: pointer;
+}
+
+::selection {
+  background-color: #f97316;
+  color: white;
+}
